@@ -115,6 +115,8 @@ body {
 
 /*    О НАС    */
 
+
+
 .page {
   text-align: center;
   margin: auto;
@@ -316,7 +318,7 @@ body {
   box-sizing: content-box;
   display: block;
   width: 100%;
-  background-color: #f4f7f6;
+  background-color: #f0f0ff;
   text-align: center;
   padding-top: 30px;
   padding-bottom: 30px;
